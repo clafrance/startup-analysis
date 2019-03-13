@@ -1,2 +1,2 @@
 # startup-analysis
-Identify top startups based on their revenues and expenses
+A Tableau dashboard to identify top startups based on their revenues and expenses
