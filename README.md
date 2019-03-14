@@ -4,6 +4,8 @@
 
 It uses Tabbeau's combined dynamic set and parameter feathres to give user the flexibility to select the number of companies he/she would like to get.
 
+![dasgboard](dashboard.png)
+
 ### Parameters:
 
 * Minimum revenue
